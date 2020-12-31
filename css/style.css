@@ -67,7 +67,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding: 1rem 1rem;
-    border-bottom: 1px solid rgb(119, 86, 48);
+    border-bottom: 1px solid rgb(42, 129, 50);
 }
 .nav-brand{
     width: 2rem;
@@ -166,7 +166,7 @@ nav{
     .block {
       width: 0%;
       height: inherit;
-      background: rgb(119, 86, 48);
+      background:rgb(42, 129, 50);
       position: absolute;
       animation: mainBlock 2s cubic-bezier(.74, .06, .4, .92) forwards;
       display: flex;
@@ -240,7 +240,7 @@ nav{
 }
 .btn{
     font-family: bold;
-    background-color: rgb(119, 86, 48);
+    background-color: rgb(42, 129, 50);
     border-radius: 2rem;
     font-size: 14px;
     color: #fafafa;
@@ -251,7 +251,7 @@ nav{
     transition: background-color 650ms;
 }
 .btn:hover{
-    background-color: rgb(88, 63, 35);
+    background-color:  rgb(21, 70, 26);
 }
 
 
